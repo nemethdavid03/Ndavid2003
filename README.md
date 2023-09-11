@@ -1,6 +1,5 @@
 - 👋 Szia, Németh Dávid vagyok
 - 👀 Érdekel engem a webfejlesztés, Frontend és Backend oldalon is.
-- 🌱 Jelenleg Angulart és React-ot tanulok.
 - 💞️ Olyan munkahelyet keresek, ahol kamatoztathatom a tudásom.
 - 📫 Ha kérdésed van, vagy felkeltettem érdeklődésed, hívj a 06 20 964 4123 telefonszámon, vagy keress fel email-ben.
 
